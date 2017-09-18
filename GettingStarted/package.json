@@ -1,0 +1,16 @@
+{
+  "name": "FrontEndProgramming",
+  "version": "1.0.0",
+  "description": "Assignments for course FEP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luuk S. van Houdt",
+  "license": "ISC",
+  "repository": "LSVH/hbo-ict-fep-assignments",
+  "dependencies": {
+    "angular": "^1.6.6",
+    "jquery": "^3.2.1"
+  }
+}

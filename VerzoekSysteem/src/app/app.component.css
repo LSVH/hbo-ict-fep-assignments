@@ -1,0 +1,9 @@
+:host {
+	color: red;
+	font-family: Helvetica, Arial, sans-serif;
+}
+:host ul {
+	text-align: left;
+	display: inline-block;
+	margin: 0;
+}
